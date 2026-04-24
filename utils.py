@@ -1,3 +1,2 @@
-#Data Storage 
 books = {}
-issue_books = []
+issue_books = {}   
